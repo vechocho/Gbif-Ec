@@ -40,7 +40,7 @@ Luego se solicita seleccionar la ubicación de la Organización para lo cual pue
 
 Una vez localizada geográficamente la Organización, de clic en el mapa. Aparecerá un ícono de ubicación en el lugar de la pantalla donde se seleccionó con el puntero del mouse.
 
-![](<.gitbook/assets/image (2) (1).png>)
+![](<.gitbook/assets/image (2) (1) (1).png>)
 
 ### Endorsing node
 
@@ -96,11 +96,11 @@ Para acceder a la herramienta IPT del Nodo Nacional de GBIF, se requieren creden
 
 1. Ingrese al enlace [http://patrimonio.ambiente.gob.ec/iptmae/](http://patrimonio.ambiente.gob.ec/iptmae/), Es posible cambiar el idioma, para esto en la parte superior derecha se puede dar clic en el icono correspondiente.
 
-![](<.gitbook/assets/image (2).png>)
+![](<.gitbook/assets/image (2) (1).png>)
 
 2. De clic en \[`NICIAR SESIÓN`], y luego en el texto subrayado \[`ADMINISTRADOR DEL IPT`]
 
-![](.gitbook/assets/image.png)
+![](<.gitbook/assets/image (3).png>)
 
 Se conecta con el gestor de correos electrónico de su computadora desde el cual remitirá el correo. Solicitando la creación de una cuenta para uso del IPT.
 

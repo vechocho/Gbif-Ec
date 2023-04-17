@@ -9,7 +9,7 @@ Integrated Publishing Toolkit (IPT) es una aplicación web disponible de forma g
 
 Para poder acceder al IPT, Ingrese al enlace [http://patrimonio.ambiente.gob.ec/iptmae/](http://patrimonio.ambiente.gob.ec/iptmae/) y digite las credenciales otorgadas por el Nodo Nacional de Gbif.
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Adicionalmente, el nodo nacional de GBIF cuenta con un IPT en ambiente de prueba donde podrá realizar ejercicios para familiarizarse con el entorno de la herramienta, con la posibilidad que desde el ambiente de pruebas una vez revisada y verificada la información pueda realizar la carga del conjunto de datos en forma directa en el IPT de producción.
 
@@ -19,7 +19,7 @@ Se accede a través del siguiente enlace: [https://patrimonio.ambiente.gob.ec/ip
 
 Al acceder a la herramienta se presenta una página donde puede visualizar las opciones:
 
-![](<.gitbook/assets/image (10).png>)
+![](<.gitbook/assets/image (10) (1).png>)
 
 **Inicio.-** Permite visualizar los recursos compartidos en el IPT, se muestra la siguiente información: el logo de la Organización, nombre del recurso, organización publicadora, tipo de recurso, número de registros y las fechas de publicación.
 
@@ -48,7 +48,7 @@ En la página de Vista General se encuentra las siguientes secciones.
 
 * [Conjunto de Datos ](compartir-datos-por-el-ipt-integrated-publishing-toolkit.md#conjunto-de-datos)
 * [Mapeo Darwin Core ](compartir-datos-por-el-ipt-integrated-publishing-toolkit.md#mapeo-darwin-core)
-* Metadatos&#x20;
+* [Metadatos ](compartir-datos-por-el-ipt-integrated-publishing-toolkit.md#metadatos)
 * Visibilidad&#x20;
 * Publicación&#x20;
 * Registro&#x20;
@@ -73,7 +73,7 @@ Para importar el archivo al IPT, realice las siguientes acciones:&#x20;
 3. Pulse en \[Agregar], si el archivo es el correcto, este se carga en el IPT. Si se cometió un error al seleccionar el archivo Pulse en \[Limpiar]. El archivo se quitará de la herramienta.&#x20;
 4. Una vez agregado el archivo se abrirá una página que muestra el nombre del recurso y sus características (tamaño, número de filas, etc.), delimitadores, formatos y codificación que realiza el IPT al cargar el archivo. Se recomienda no modificar los elementos a menos que se conozca los efectos sobre la forma de leerlo por el IPT.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (2).png>)
 
 En la página se visualiza si el archivo es reconocido por el IPT, que se evidencia por el ícono en color verde, ubicado en la parte superior izquierda. Puede observar el número de columnas del archivo que es importante revisarlo para verificar que el archivo esté completo.
 
@@ -120,7 +120,78 @@ La página además presenta:&#x20;
 
 ### Metadatos&#x20;
 
+Los metadatos responden a las preguntas ¿Quién?, ¿Qué?, ¿Dónde?, ¿Cuándo? y ¿Cómo? de un conjunto de datos, que permite al usuario conocer su contexto y el uso concreto de los mismos.&#x20;
 
+![](<.gitbook/assets/image (10).png>)
 
+Para completar los metadatos del Recurso haga clic en \[Editar] Se abre la página “Metadatos Básicos”, la cual está organizada por temática (geografía, taxonomía, etc.).&#x20;
 
+La columna a la izquierda lista los apartados para cada set de información que se constituirán en los metadatos relacionados con el archivo a compartirse. Haga clic en cada título para acceder a un apartado particular.
 
+#### Metadatos básicos
+
+En esta página la página complete la información requerida:&#x20;
+
+![](.gitbook/assets/image.png)
+
+Título. - Nombre largo. Describa el contenido del recurso. Responde a las preguntas ¿Qué?, ¿Dónde?, ¿Cuándo? y ¿Cómo?&#x20;
+
+Organización Publicadora. - La organización responsable de la publicación del recurso. Una vez seleccionada la Organización, ésta no puede ser cambiada.&#x20;
+
+> En el IPT de producción aparecerá listada su organización. En caso de no estar disponible, deberá contactarse con el Administrador del Nodo para que se registre la organización. En el IPT de pruebas esta opción no está disponible.&#x20;
+
+**Tipo. -** El valor de este campo depende del mapeo del recurso y no es posible editarlo si el mapeo Darwin Core ya se ha hecho. Si el tipo de recurso deseado no se encuentra en la lista, se puede elegir el campo “otro”.&#x20;
+
+**Subtipo. -** Las opciones dependen del elemento Tipo. Si el subtipo no se encuentra en la lista, deje el campo con la selección por defecto. Para los especimenes de Herbarios y museos se debe seleccionar "Ejemplar"
+
+**Idioma de los Metadatos. -** El idioma en que está escrita la información de los metadatos.&#x20;
+
+**Idioma de los Datos. -** El idioma principal de los datos.&#x20;
+
+**Licencia de los datos. -** La licencia que se aplica a un conjunto de datos proporciona una forma estandarizada de definir el uso apropiado de su trabajo.&#x20;
+
+* CC0 1.0 Dominio público, la renuncia a todos los derechos sobre la obra. Se puede copiar, modificar, distribuir y reproducir el trabajo, incluso para fines comerciales, sin previa autorización.&#x20;
+* CC BY 4.0 Permite distribuir, mezclar, ajustar y construir a partir de su obra, incluso con fines comerciales, siempre que sea reconocida la autoría.&#x20;
+* CC BY-NC 4.0 Permite distribuir, mezclar, ajustar y construir a partir de su obra, siempre que sea reconocida la autoría de la creación original y no tenga fines comerciales.&#x20;
+
+> La licencia seleccionada aquí deberá ser la misma que se indique en el conjunto de datos en el campo si este fue incluido en el archivo.
+
+**Descripción. -** Una breve descripción del recurso que está siendo documentado, pueden ser varios párrafos. Debe proveer información que permita entender el contexto del conjunto de datos. Para añadir saltos de línea haga clic en \[Añadir Párrafo]
+
+> Los apartados con el símbolo “\*” son obligatorios. Frecuencia de actualización. - Frecuencia con la que se planifica realizar cambios al recurso.&#x20;
+
+**Contactos del Recurso. -** Personas y organizaciones que custodian o deben ser contactadas para obtener más información o puedan resolver los posibles problemas con el recurso o los datos compartidos.&#x20;
+
+* Haga clic en \[Añadir contacto del recurso]&#x20;
+* Complete el formulario&#x20;
+
+**Creadores del recurso. -** Lista de creadores, corresponde a las personas y organizaciones que han creado el recurso, en orden de prioridad. La lista será utilizada para generar la referencia del recurso (si la generación automática está activada).&#x20;
+
+* Haga clic en \[Añadir creador del recurso]&#x20;
+* Complete el formulario&#x20;
+
+**Proveedores de los Metadatos. -** Personas y organizaciones responsables de generar los metadatos del recurso.&#x20;
+
+* Haga clic en \[Añadir proveedor de los metadatos]&#x20;
+* Complete el formulario
+
+Complete toda la información solicitada, recuerde que los ítems con “\*” son obligatorios.&#x20;
+
+Una vez completada la sección, de clic en guardar.
+
+#### Cobertura geográfica
+
+![](<.gitbook/assets/image (2).png>)
+
+Expone el área geográfica cubierta por el recurso, por defecto se encuentra activada la opción \[Establecer cobertura global], si la cobertura no es global desmarque la opción y se libera el uso de la aplicación.&#x20;
+
+**Mapa de cobertura. -** El mapa muestra un recuadro. Las esquinas corresponden a los valores de Latitud y Longitud.&#x20;
+
+* Desplace las esquinas para establecer los límites geográficos del recuadro.&#x20;
+* Establecer cobertura global. - Haga clic en la casilla, y la cobertura geográfica cambia a una cobertura global.&#x20;
+
+**Longitud Mínima/Longitud Máxima/Latitud Mínima/Latitud Máxima. -** Estos valores se cargan automáticamente una vez fijado el recuadro; o puede ingresar manualmente la información del cuadrante geográfico de cobertura de los datos.&#x20;
+
+**Descripción. -** Redacte un párrafo que explique la selección del recuadro, sea porque el recurso cubre la superficie del país o corresponde a una localidad en particular.&#x20;
+
+Una vez completada la información, haga clic en \[Guardar]
