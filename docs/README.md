@@ -16,3 +16,5 @@ Para mayor información contáctese con el equipo técnico del Nodo Nacional de 
 La Autoridad Nacional Ambiental viene desarrollando el Sistema de Información de Biodiversidad del Ecuador (SiB-Ec), como un subsistema del Sistema Único de Información Ambiental (SUIA), con el fin de gestionar los datos e información relacionada con el Patrimonio Natural de Ecuador y con la misión de articular procesos de generación, almacenamiento, gestión y publicación de datos e información de la biodiversidad del país que permita la toma de decisión informada y generación de política pública.&#x20;
 
 El Catálogo Nacional de Objetos Biológicos (CNOB) presenta los lineamientos y los estándares para la gestión de la información, la misma que se basa en el trabajo desarrollado por el Biodiversity Information Standards (Estándares de Información sobre Biodiversidad), conocido también como TDWG, acogiendo el estándar Darwin Core DwC.
+
+El estándar DwC es ampliamente utilizado, por investigadores y organizaciones que trabajan con organismos vivos, para organizar y compartir información biológica.
