@@ -9,7 +9,7 @@ Integrated Publishing Toolkit (IPT) es una aplicación web disponible de forma g
 
 Para poder acceder al IPT, Ingrese al enlace [http://patrimonio.ambiente.gob.ec/iptmae/](http://patrimonio.ambiente.gob.ec/iptmae/) y digite las credenciales otorgadas por el Nodo Nacional de Gbif.
 
-<figure><img src=".gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Adicionalmente, el nodo nacional de GBIF cuenta con un IPT en ambiente de prueba donde podrá realizar ejercicios para familiarizarse con el entorno de la herramienta, con la posibilidad que desde el ambiente de pruebas una vez revisada y verificada la información pueda realizar la carga del conjunto de datos en forma directa en el IPT de producción.
 
@@ -19,7 +19,7 @@ Se accede a través del siguiente enlace: [https://patrimonio.ambiente.gob.ec/ip
 
 Al acceder a la herramienta se presenta una página donde puede visualizar las opciones:
 
-![](<.gitbook/assets/image (10) (1).png>)
+![](<../.gitbook/assets/image (10) (1).png>)
 
 **Inicio.-** Permite visualizar los recursos compartidos en el IPT, se muestra la siguiente información: el logo de la Organización, nombre del recurso, organización publicadora, tipo de recurso, número de registros y las fechas de publicación.
 
@@ -46,9 +46,9 @@ Para crear un nuevo recurso desde cero se deben seguir los siguientes pasos:
 
 En la página de Vista General se encuentra las siguientes secciones.
 
-* [Conjunto de Datos ](compartir-datos-por-el-ipt-integrated-publishing-toolkit.md#conjunto-de-datos)
-* [Mapeo Darwin Core ](compartir-datos-por-el-ipt-integrated-publishing-toolkit.md#mapeo-darwin-core)
-* [Metadatos ](compartir-datos-por-el-ipt-integrated-publishing-toolkit.md#metadatos)
+* [Conjunto de Datos ](./#conjunto-de-datos)
+* [Mapeo Darwin Core ](./#mapeo-darwin-core)
+* [Metadatos ](./#metadatos)
 * Visibilidad&#x20;
 * Publicación&#x20;
 * Registro&#x20;
@@ -66,14 +66,14 @@ Para importar datos también es posible hacerlo conectando bases de datos, en la
 
 Para importar el archivo al IPT, realice las siguientes acciones:&#x20;
 
-![](<.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 1. Pulse en \[Agregar], y luego selecciones "Archivo", esto permite ubicar la ruta o acceso del archivo a importar. &#x20;
 2. Seleccione el archivo. Seleccionado el archivo, este se visualiza en la página con el nombre y la extensión del mismo (.txt, .csv, entre otros)
 3. Pulse en \[Agregar], si el archivo es el correcto, este se carga en el IPT. Si se cometió un error al seleccionar el archivo Pulse en \[Limpiar]. El archivo se quitará de la herramienta.&#x20;
 4. Una vez agregado el archivo se abrirá una página que muestra el nombre del recurso y sus características (tamaño, número de filas, etc.), delimitadores, formatos y codificación que realiza el IPT al cargar el archivo. Se recomienda no modificar los elementos a menos que se conozca los efectos sobre la forma de leerlo por el IPT.
 
-![](<.gitbook/assets/image (3) (2).png>)
+![](<../.gitbook/assets/image (3) (2).png>)
 
 En la página se visualiza si el archivo es reconocido por el IPT, que se evidencia por el ícono en color verde, ubicado en la parte superior izquierda. Puede observar el número de columnas del archivo que es importante revisarlo para verificar que el archivo esté completo.
 
@@ -92,24 +92,24 @@ De clic en la opción “Guardar”, una vez se haya revisado la información ca
 
 En esta sección se identifica la correspondencia entre los nombres de las columnas del archivo cargado con las columnas del estándar Darwin Core y sus extensiones.
 
-![](<.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 El proceso es igual para conjuntos de datos de tipo Occurrence (Datos primarios sobre registros biológicos), Checklist (Listas de chequeo) y Sampling Event (Datos de eventos de muestreo). El mapeo se realiza en los siguientes pasos:
 
 1. Seleccione Agregar,&#x20;
 2. Seleccione un paquete del estándar correspondiente para el conjunto de datos y de clic en Agregar.
 
-![](<.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 3. Seleccione el Archivo que va a ser mapeado para el paquete correspondiente y de clici en Guardar
 
-![](<.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8).png>)
 
 A continuación, se abrirá la página con la vista general para el mapeo Darwin Core del conjunto de datos.&#x20;
 
 Un mensaje informa sobre los elementos mapeados automáticamente a los elementos del estándar Darwin Core.
 
-![](<.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (11).png>)
 
 La página además presenta:&#x20;
 
@@ -122,7 +122,7 @@ La página además presenta:&#x20;
 
 Los metadatos responden a las preguntas ¿Quién?, ¿Qué?, ¿Dónde?, ¿Cuándo? y ¿Cómo? de un conjunto de datos, que permite al usuario conocer su contexto y el uso concreto de los mismos.&#x20;
 
-![](<.gitbook/assets/image (10).png>)
+![](<../.gitbook/assets/image (10).png>)
 
 Para completar los metadatos del Recurso haga clic en \[Editar] Se abre la página “Metadatos Básicos”, la cual está organizada por temática (geografía, taxonomía, etc.).&#x20;
 
@@ -132,7 +132,7 @@ La columna a la izquierda lista los apartados para cada set de información que 
 
 En esta página la página complete la información requerida:&#x20;
 
-![](.gitbook/assets/image.png)
+![](../.gitbook/assets/image.png)
 
 Título. - Nombre largo. Describa el contenido del recurso. Responde a las preguntas ¿Qué?, ¿Dónde?, ¿Cuándo? y ¿Cómo?&#x20;
 
@@ -181,7 +181,7 @@ Una vez completada la sección, de clic en guardar.
 
 #### Cobertura geográfica
 
-![](<.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 Expone el área geográfica cubierta por el recurso, por defecto se encuentra activada la opción \[Establecer cobertura global], si la cobertura no es global desmarque la opción y se libera el uso de la aplicación.&#x20;
 
