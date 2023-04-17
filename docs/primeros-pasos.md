@@ -103,3 +103,5 @@ Para acceder a la herramienta IPT del Nodo Nacional de GBIF, se requieren creden
 ![](.gitbook/assets/image.png)
 
 Se conecta con el gestor de correos electrónico de su computadora desde el cual remitirá el correo. Solicitando la creación de una cuenta para uso del IPT.
+
+Una vez creado su usuario, se remitirán las credenciales de ingreso por correo electrónico.
