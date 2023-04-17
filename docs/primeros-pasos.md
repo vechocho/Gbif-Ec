@@ -1,6 +1,6 @@
 # Primeros Pasos
 
-### Registro de la Organización
+## Registro de la Organización
 
 Previo a la publicación de datos se necesita registrar la institución en el portal de la Infraestructura Mundial de Información en Biodiversidad (Global Biodiversity Information Facility, GBIF) [llenando el formulario de registro en línea como publicador](https://www.gbif.org/es/become-a-publisher).&#x20;
 
@@ -20,13 +20,75 @@ En primer momento se recomienda consultar si la Organización se encuentra regis
 
 a. Si la Organización está registrada, solicite clave y usuario al Nodo Nacional de GBIF al correo victor.chocho@ambiente.gob.ec
 
-b. Si la organización no se encuentra registrada. Marque en la casilla inferior izquierda \[“My organization is not already regisrered”]
+b. Si la organización no se encuentra registrada. Marque en la casilla inferior izquierda `[“My organization is not already registered”]`
 
-<img src=".gitbook/assets/image (1).png" alt="" data-size="original">
+<img src=".gitbook/assets/image (1) (1).png" alt="" data-size="original">
 
-Revise y acepte los términos y codiciones para continuar, marcando todas las casillas.
+### Términos y condiciones&#x20;
+
+Revise y acepte los términos y condiciones para continuar, marcando todas las casillas.
+
+![](<.gitbook/assets/image (3).png>)
+
+### Información de la organización
+
+A continuación, se despliega el formulario donde se registra la información de la Organización. Los ítems señalados con el símbolo \[\*] son de tipo obligatorio.
+
+![](<.gitbook/assets/image (6).png>)
+
+Luego se solicita seleccionar la ubicación de la Organización para lo cual puede desplazarse con ayuda del cursor y realizar acercamientos y alejamientos con los iconos de color azul \[+] y \[-], ubicados en la parte superior izquierda de la pantalla.&#x20;
+
+Una vez localizada geográficamente la Organización, de clic en el mapa. Aparecerá un ícono de ubicación en el lugar de la pantalla donde se seleccionó con el puntero del mouse.
+
+![](<.gitbook/assets/image (2).png>)
+
+### Endorsing node
+
+Corresponde al Nodo que dará el apoyo y soporte con respecto a la calidad de la información y publicación de datos.&#x20;
+
+La primera opción aparece seleccionada por defecto y es la sugerida, a través de la cual la organización solicita el auspicio, apoyo o ratificación por parte del nodo nacional de GBIF. En este caso el Nodo será Ecuador.&#x20;
+
+![](<.gitbook/assets/image (5).png>)
+
+### Vinculación con proyectos de GBIF&#x20;
+
+A continuación, en el formulario se consulta si la Organización está asociada a algún proyecto o programa financiado por GBIF. Pulse en la opción \[Si] o \[No], según corresponda.
 
 ![](.gitbook/assets/image.png)
 
+### Contactos&#x20;
 
+La siguiente sección corresponde a la información de contacto con la Organización. Existe la posibilidad de incluir administradores y personal técnico de la Organización.
+
+Marque en la casilla correspondiente, si desea incluir información de administradores o personal técnico para desplegar los formularios correspondientes.
+
+![](<.gitbook/assets/image (7).png>)
+
+### Qué y cómo&#x20;
+
+Se solicita información acerca del tipo de datos que se va a compartir:
+
+**Metadatos de Recursos.-** Detalla información de contacto de un recurso (conjunto de datos) que actualmente no puede compartirse en formato digital. Permite evaluar la importancia de datos no digitalizados.&#x20;
+
+**Datos de listas de especies.-** Lista de especies organizada por categorías (ej.: taxonómica, geográfica, listas rojas, variedades silvestres de cultivo, entre otras).&#x20;
+
+**Datos de registros de presencia únicamente.-** Evidencia de la ocurrencia de una especie en un lugar y tiempo específico. Puede entenderse como una ampliación de “Datos de listas de especies” proporcionando información general de localidades incluyendo coordenadas y fechas. Además, el conjunto de datos puede registrar por separado individuos de una misma especie.&#x20;
+
+**Datos de muestreo.-** Evidencia de la presencia de una especie en un lugar y tiempo específico adicionando información de comunidades o la abundancia relativa en base a protocolos estandarizados.
+
+Seleccione las opciones que correspondan a su organización y añada una descripción de la naturaleza de los datos a ser compartidos.
+
+![](<.gitbook/assets/image (4).png>)
+
+Capacidades tecnológicas
+
+Finalmente se solicita información sobre las capacidades técnicas y tecnológicas de la organización para compartir datos con GBIF. Marque en las casillas \[Si] o \[No], según corresponda.&#x20;
+
+La primera y tercera pregunta se responderá en función de las circunstancias institucionales. Respecto a la segunda, la carga de datos se realizará a través del IPT instalado en el Ministerio del Ambiente, Agua y Transición Ecológica por tanto no se requerirá la instalación del software en la Organización.&#x20;
+
+Al completar la encuesta. Haga clic en la casilla verde \[REGISTRAR ORGANIZACIÓN] y con esto se finaliza el proceso.
+
+![](<.gitbook/assets/image (8).png>)
+
+## Solicitud de usuario y clave al Nodo Nacional
 
