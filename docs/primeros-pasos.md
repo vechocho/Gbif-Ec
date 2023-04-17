@@ -28,7 +28,7 @@ b. Si la organización no se encuentra registrada. Marque en la casilla inferior
 
 Revise y acepte los términos y condiciones para continuar, marcando todas las casillas.
 
-![](<.gitbook/assets/image (3).png>)
+![](<.gitbook/assets/image (3) (1).png>)
 
 ### Información de la organización
 
@@ -78,7 +78,7 @@ Se solicita información acerca del tipo de datos que se va a compartir:
 
 Seleccione las opciones que correspondan a su organización y añada una descripción de la naturaleza de los datos a ser compartidos.
 
-![](<.gitbook/assets/image (4).png>)
+![](<.gitbook/assets/image (4) (1).png>)
 
 Capacidades tecnológicas
 
@@ -88,7 +88,7 @@ La primera y tercera pregunta se responderá en función de las circunstancias i
 
 Al completar la encuesta. Haga clic en la casilla verde \[`REGISTRAR ORGANIZACIÓN`] y con esto se finaliza el proceso.
 
-![](<.gitbook/assets/image (8).png>)
+![](<.gitbook/assets/image (8) (1).png>)
 
 ## Solicitud de usuario y clave al Nodo Nacional
 
