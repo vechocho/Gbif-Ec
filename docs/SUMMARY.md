@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Creación de Institución](README.md)
+* [Introducción](README.md)
+* [Page 1](page-1.md)
