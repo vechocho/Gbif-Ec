@@ -2,7 +2,7 @@
 
 En esta página la página complete la información requerida:&#x20;
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (4) (3).png>)
 
 Título. - Nombre largo. Describa el contenido del recurso. Responde a las preguntas ¿Qué?, ¿Dónde?, ¿Cuándo? y ¿Cómo?&#x20;
 

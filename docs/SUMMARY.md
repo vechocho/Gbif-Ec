@@ -25,3 +25,6 @@
     * [Metadatos adicionales](compartir-datos-por-el-ipt-integrated-publishing-toolkit/metadatos/metadatos-adicionales.md)
   * [Visibilidad](compartir-datos-por-el-ipt-integrated-publishing-toolkit/visibilidad.md)
   * [Publicación](compartir-datos-por-el-ipt-integrated-publishing-toolkit/publicacion.md)
+  * [Registro](compartir-datos-por-el-ipt-integrated-publishing-toolkit/registro.md)
+  * [Autopublicación](compartir-datos-por-el-ipt-integrated-publishing-toolkit/autopublicacion.md)
+  * [Redes](compartir-datos-por-el-ipt-integrated-publishing-toolkit/redes.md)

@@ -7,8 +7,8 @@ En la página de Vista General se encuentra las siguientes secciones.
 * [Metadatos ](vista-general.md#metadatos)
 * [Visibilidad ](visibilidad.md)
 * [Publicación ](publicacion.md)
-* Registro&#x20;
-* Autopublicación&#x20;
+* [Registro ](registro.md)
+* [Autopublicación](autopublicacion.md)&#x20;
 * Redes&#x20;
 * Editores de Recursos
 

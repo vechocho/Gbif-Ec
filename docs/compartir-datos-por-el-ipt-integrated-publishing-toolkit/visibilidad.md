@@ -2,7 +2,7 @@
 
 La visibilidad determina quién puede ver el conjunto de datos, y si al recurso le fue asignado un DOI o está registrado en GBIF.&#x20;
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (5) (2).png>)
 
 Existen tres opciones:&#x20;
 
@@ -17,7 +17,7 @@ El recurso tiene una visibilidad "privada" de forma predeterminada, para poder r
 * Seleccione la opción cambiar
 * Un mensaje le notificará que la visibilidad cambiará a "Público"
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 * Seleccione "Enviar"
 

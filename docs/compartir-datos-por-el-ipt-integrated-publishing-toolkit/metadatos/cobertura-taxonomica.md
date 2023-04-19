@@ -2,7 +2,7 @@
 
 En la página se ingresa información acerca de él o los grupos de taxonómicos contenidos en el recurso, cada taxa es entendido como una cobertura taxonómica.
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (2).png>)
 
 
 
